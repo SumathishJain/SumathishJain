@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sumathish Jain B R!
 
-<img src="[PASTE_IMAGE_URL_HERE](https://github.com/user-attachments/assets/a2b1521d-7912-460a-a974-0c3d087c839b)" alt="Your Image" width="100%">
+<img src="[PASTE_IMAGE_URL_HERE](https://github.com/user-attachments/assets/a2b1521d-7912-460a-a974-0c3d087839b)" alt="Your Image" width="100%">
 
 
 🚀 Quality Assurance Engineer | SDET | Automation Enthusiast
