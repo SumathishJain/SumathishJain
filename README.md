@@ -1,5 +1,8 @@
 # 👋 Hey there, I'm Sumathish Jain B R!
 
+<img src="[PASTE_IMAGE_URL_HERE](https://github.com/user-attachments/assets/a2b1521d-7912-460a-a974-0c3d087c839b)" alt="Your Image" width="100%">
+
+
 🚀 Quality Assurance Engineer | SDET | Automation Enthusiast
 
 I love making software better, faster, and more reliable! Testing isn't just my job—it's my passion. I thrive on uncovering hidden bugs, breaking applications in creative ways, and ensuring seamless user experiences. With a strong background in Python, Selenium, SQL, and JMeter, I specialize in test automation, API testing, performance testing, and CI/CD pipelines. My mission is to push applications to their limits, making sure they stand strong against real-world scenarios. 🚀
