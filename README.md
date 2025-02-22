@@ -17,7 +17,7 @@ I love making software better, faster, and more reliable! Testing isn't just my 
 - Boosting software performance and reliability
 
 - ### 📢 Let's Build Something Amazing Together!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sumathish-jain-b-r-1a3343242)))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sumathish-jain-b-r-1a3343242))
 - 📧 [Email](mailto:sumathishjain.2002@gmail.com)
 - 🌐 [Portfolio]((https://github.com/SumathishJain))
 
